@@ -3,7 +3,8 @@ wordpress-skeleton-plugin
 
 To help with your new Wordpress plugin
 
-==HOW THIS PLUGIN WORKS==
+HOW THIS PLUGIN WORKS
+=====================
 
 The following is a general flow of how this app works.
 
